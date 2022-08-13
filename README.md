@@ -1,2 +1,5 @@
 # dots2
-macOS dotfiles for widgets
+# Beautiful widgets for macOS!
+
+
+
